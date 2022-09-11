@@ -8,3 +8,4 @@
 <br>
 &nbsp&nbsp&nbsp:pushpin:Для создания бота был использован фреймворк - Aiogram. Благодаря ему вся работа идёт в ассинхронном режиме.
 </div>
+![8Ry1GvxP9G4](https://user-images.githubusercontent.com/58167183/189515855-e2bdd029-a849-486b-a66d-7b32bf422124.jpg)
