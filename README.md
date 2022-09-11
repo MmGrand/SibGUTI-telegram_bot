@@ -7,5 +7,15 @@
 &nbsp&nbsp&nbsp:pushpin:В разработке использовались такие технологии, как Python, SQLite и telegramAPI. 
 <br>
 &nbsp&nbsp&nbsp:pushpin:Для создания бота был использован фреймворк - Aiogram. Благодаря ему вся работа идёт в ассинхронном режиме.
+<br>
+&nbsp&nbsp&nbsp:pushpin:Для парсинга данных использовались BeautifulSoup и Selenium.
 </div>
-![8Ry1GvxP9G4](https://user-images.githubusercontent.com/58167183/189515855-e2bdd029-a849-486b-a66d-7b32bf422124.jpg)
+<br>
+<div>
+&nbsp&nbsp&nbsp:exclamation:Есть возможность доработать:
+  <ol>
+ <li>:anger:Все данные, необходимые для бота, поместить в базу данных.</li>
+ <li>:anger:Сделать так, чтобы пользователь мог продолжить с того же места, если бот выключится.</li>
+ <li>:anger:Поставить его на сервер, тем самым обеспечить режим работы 24/7.</li>
+</ol>
+</div>
